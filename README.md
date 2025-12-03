@@ -75,12 +75,12 @@ Desenvolvedores:
 🔗 [Veja o meu processo de criação ]([url do processo, exemplo: fluxograma](https://www.figma.com/board/odKICsE4nTCevfpFGjs2dc/Fluxograma---ChatBot?node-id=0-1&t=dlqtEoEPMssoNjl2-1))
 
 Desenvolvedores:
-- [José Ariel Magalhães]([Link do seu linkedin](https://www.linkedin.com/in/josé-ariel-pereira-magalhães-692b4539b))
-- [Luís Filipe Harten]([Link do seu linkedin](https://www.linkedin.com/in/lu%C3%ADs-filipe-harten-nogueira-a5a8781a3/))
-- [Yasmim Antonino]([Link do seu linkedin](https://www.linkedin.com/in/yasmim-antonino-costa-dos-santos-7b8ba5335?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-- [Suelen Bezerra]([Link do seu linkedin](https://www.linkedin.com/in/suelenbezerra/))
-- [Benício Varjal]([Link do seu linkedin](https://www.linkedin.com/in/benivarjal/))
-- [Fernanda Mello]([Link do seu linkedin](https://www.linkedin.com/in/fernanda-mello-5a1b2639b/))
+- [José Ariel Magalhães](https://www.linkedin.com/in/josé-ariel-pereira-magalhães-692b4539b)
+- [Luís Filipe Harten](https://www.linkedin.com/in/lu%C3%ADs-filipe-harten-nogueira-a5a8781a3/)
+- [Yasmim Antonino](https://www.linkedin.com/in/yasmim-antonino-costa-dos-santos-7b8ba5335?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- [Suelen Bezerra](https://www.linkedin.com/in/suelenbezerra/)
+- [Benício Varjal](https://www.linkedin.com/in/benivarjal/)
+- [Fernanda Mello](https://www.linkedin.com/in/fernanda-mello-5a1b2639b/)
 
 
 

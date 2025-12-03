@@ -1,6 +1,6 @@
 # Plataforma de Assistentes Virtuais
 
-![banner](https://github.com/terezasenac/vitrine-senac/blob/main/img/card.png)
+![banner](https://github.com/terezasenac/vitrine-senac/blob/main/img/new%20card.png)
 
 ### Boas vindas à nossa vitrine de inovação!
 

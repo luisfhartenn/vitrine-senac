@@ -70,9 +70,9 @@ Desenvolvedores:
 
 **Texto explicativo sobre o chat. **
 
-🔗 [Pode me acessar aqui]([url para acessar o projeto](https://typebot.co/my-typebot-zqb6w33)  )
+🔗 [Pode me acessar aqui](https://typebot.co/my-typebot-zqb6w33)
 
-🔗 [Veja o meu processo de criação ]([url do processo, exemplo: fluxograma](https://www.figma.com/board/odKICsE4nTCevfpFGjs2dc/Fluxograma---ChatBot?node-id=0-1&t=dlqtEoEPMssoNjl2-1))
+🔗 [Veja o meu processo de criação ](https://www.figma.com/board/odKICsE4nTCevfpFGjs2dc/Fluxograma---ChatBot?node-id=0-1&t=dlqtEoEPMssoNjl2-1)
 
 Desenvolvedores:
 - [José Ariel Magalhães](https://www.linkedin.com/in/josé-ariel-pereira-magalhães-692b4539b)

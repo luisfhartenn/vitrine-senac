@@ -70,14 +70,18 @@ Desenvolvedores:
 
 **Texto explicativo sobre o chat. **
 
-🔗 [Pode me acessar aqui](url para acessar o projeto  )
+🔗 [Pode me acessar aqui]([url para acessar o projeto](https://typebot.co/my-typebot-zqb6w33)  )
 
-🔗 [Veja o meu processo de criação](url do processo, exemplo: fluxograma)
+🔗 [Veja o meu processo de criação ]([url do processo, exemplo: fluxograma](https://www.figma.com/board/odKICsE4nTCevfpFGjs2dc/Fluxograma---ChatBot?node-id=0-1&t=dlqtEoEPMssoNjl2-1))
 
 Desenvolvedores:
-- [Nome]Link do seu linkedin)
-- [Nome](Link do seu linkedin)
-- [Nome](Link do seu linkedin)
+- [José Ariel Magalhães]([Link do seu linkedin](https://www.linkedin.com/in/josé-ariel-pereira-magalhães-692b4539b))
+- [Luís Filipe Harten]([Link do seu linkedin](https://www.linkedin.com/in/lu%C3%ADs-filipe-harten-nogueira-a5a8781a3/))
+- [Yasmim Antonino]([Link do seu linkedin](https://www.linkedin.com/in/yasmim-antonino-costa-dos-santos-7b8ba5335?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- [Suelen Bezerra]([Link do seu linkedin](https://www.linkedin.com/in/suelenbezerra/))
+- [Benício Varjal]([Link do seu linkedin](https://www.linkedin.com/in/benivarjal/))
+- [Fernanda Mello]([Link do seu linkedin](https://www.linkedin.com/in/fernanda-mello-5a1b2639b/))
+
 
 
 

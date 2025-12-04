@@ -68,7 +68,13 @@ Desenvolvedores:
 
 ![banner] (https://photos.app.goo.gl/DQDDnwu8TucpVGfj7)
 
-** O chatbot da Deb foi criado com o objetivo de ensinar conceitos iniciais da lógica de programação de forma simples, intuitiva e acessível, com descontração e humor, permitindo que qualquer pessoa mesmo sem experiência prévia consiga compreender como o raciocínio lógico funciona na construção de programas. Cada seção do chat foi estruturada com uma linguagem acessível para facilitar o entendimento, tornando o aprendizado mais leve, claro e direto. Entre os conceitos que a Deb ensinará aos usuários, está: Algoritmo, Tipos de Dados (variáveis), Operadores (aritméticos e relacionais), e Estrutura Condicional (IF, ELIF, ELSE). Entre os benefícios para a aprendizagem da utilização da Deb, estão: ampliação do acesso à educação continuada, promoção da inclusão digital, e recurso de apoio escolar aos jovens. O chat inclui exercícios com exemplos práticos e de tom leve da utilização da lógica da programação no dia-a-dia, de forma que um novato ou leigo na área da tecnologia possa entender a importância dos conceitos e os assimile facilmente.**
+** O chatbot da Deb foi criado com o objetivo de ensinar conceitos iniciais da lógica de programação de forma simples, intuitiva e acessível, com descontração e humor, permitindo que qualquer pessoa mesmo sem experiência prévia consiga compreender como o raciocínio lógico funciona na construção de programas.
+
+Cada seção do chat foi estruturada com uma linguagem acessível para facilitar o entendimento, tornando o aprendizado mais leve, claro e direto. Entre os conceitos que a Deb ensinará aos usuários, está: Algoritmo, Tipos de Dados (variáveis), Operadores (aritméticos e relacionais), e Estrutura Condicional (IF, ELIF, ELSE), com futuras expansões por vir.
+
+Entre os benefícios para a aprendizagem da utilização da Deb, estão: ampliação do acesso à educação continuada, promoção da inclusão digital, e recurso de apoio escolar aos jovens.
+
+O chat inclui exercícios com exemplos práticos e de tom leve da utilização da lógica da programação no dia-a-dia, de forma que um novato ou leigo na área da tecnologia possa entender a importância dos conceitos e os assimile facilmente.**
 
 🔗 [Pode me acessar aqui](https://typebot.co/my-typebot-zqb6w33)
 

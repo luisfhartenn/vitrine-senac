@@ -66,7 +66,7 @@ Desenvolvedores:
 
 ## 4 - Deb, a dev desenrolada
 
-![banner](https://photos.app.goo.gl/DQDDnwu8TucpVGfj7)
+![banner](https://imgur.com/a/ZaAJktP)
 
 ** O chatbot da Deb foi criado com o objetivo de ensinar conceitos iniciais da lógica de programação de forma simples, intuitiva e acessível, com descontração e humor, permitindo que qualquer pessoa mesmo sem experiência prévia consiga compreender como o raciocínio lógico funciona na construção de programas.
 

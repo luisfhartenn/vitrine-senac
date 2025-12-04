@@ -66,7 +66,7 @@ Desenvolvedores:
 
 ## 4 - Deb, a dev desenrolada
 
-![banner] ( url da Imagem da Persona )
+![banner] (https://photos.app.goo.gl/DQDDnwu8TucpVGfj7)
 
 **Texto explicativo sobre o chat. **
 
